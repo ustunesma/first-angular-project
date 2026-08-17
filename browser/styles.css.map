@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.scss"],
+  "sourcesContent": ["/* You can add global styles to this file, and also import other style files */\r\nhtml, body{\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\n*{\r\n    outline: none;\r\n}"],
+  "mappings": ";AACA;AAAA;AACI,UAAA;AACA,WAAA;;AAGJ;AACI,WAAA;;",
+  "names": []
+}

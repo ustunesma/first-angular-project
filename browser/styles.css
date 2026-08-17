@@ -1,0 +1,12 @@
+/* src/styles.scss */
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+* {
+  outline: none;
+}
+
+/* angular:styles/global:styles */
+/*# sourceMappingURL=styles.css.map */
